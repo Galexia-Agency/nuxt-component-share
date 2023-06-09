@@ -23,7 +23,7 @@
           :description="description"
           :quote="quote"
           :hashtags="hashtags"
-          :twitter-user="twitter-user"
+          :twitter-user="twitterUser"
           :media="media"
           class="share-button share-button--social"
           @open="open"

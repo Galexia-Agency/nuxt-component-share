@@ -1,6 +1,6 @@
 {
   "name": "nuxt-component-share",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Nuxt Share Component to allow for native browser sharing and sensible defaults for non native share",
   "main": "index.vue",
   "scripts": {
