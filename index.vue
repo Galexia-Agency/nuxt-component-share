@@ -124,8 +124,8 @@ export default {
   computed: {
     shareObject () {
       return {
-        title: this.$nuxt.$options.head.titleTemplate.replace('%s', this.title),
-        text: this.description.replaceAll('<p>', '').replaceAll('</p>', '').replaceAll('[&hellip;]', '').replaceAll('\n', ''),
+        title: this.title,
+        text: this.description,
         url: this.url
       }
     },
