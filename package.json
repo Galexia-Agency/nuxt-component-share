@@ -24,11 +24,11 @@
   "engines": {
     "yarn": "^1.10"
   },
-  "packageManager": "yarn@1.22.19",
+  "packageManager": "yarn@3.6.3",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
-    "@fortawesome/free-solid-svg-icons": "^6.4.2",
     "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
     "@fortawesome/vue-fontawesome": "^2.0.10",
     "vue-social-sharing": "^3.0.9"
   }
