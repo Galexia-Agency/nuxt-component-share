@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/Galexia-Agency/nuxt-component-share#readme",
   "devDependencies": {
-    "eslint": "^8.40.0",
-    "eslint-plugin-nuxt": "^4.0.0"
+    "eslint": "^7.29.0",
+    "eslint-config-galexia": "https://github.com/Galexia-Agency/eslint-config"
   },
   "engines": {
     "yarn": "^1.10"
