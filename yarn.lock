@@ -298,13 +298,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fortawesome/fontawesome-common-types@npm:6.6.0":
-  version: 6.6.0
-  resolution: "@fortawesome/fontawesome-common-types@npm:6.6.0"
-  checksum: f8753e3ea603224df1b975059f6cea6168aac3c16d3e73d1a1a95c9a6d7550e3d843162f87946f746b6d8a7be7f8602c399c7e35356c9033d628ce23e83a819f
-  languageName: node
-  linkType: hard
-
 "@fortawesome/fontawesome-common-types@npm:6.7.1":
   version: 6.7.1
   resolution: "@fortawesome/fontawesome-common-types@npm:6.7.1"
@@ -321,12 +314,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fortawesome/free-brands-svg-icons@npm:^6.6.0":
-  version: 6.6.0
-  resolution: "@fortawesome/free-brands-svg-icons@npm:6.6.0"
+"@fortawesome/free-brands-svg-icons@npm:^6.7.0":
+  version: 6.7.1
+  resolution: "@fortawesome/free-brands-svg-icons@npm:6.7.1"
   dependencies:
-    "@fortawesome/fontawesome-common-types": 6.6.0
-  checksum: f2bcddb9e88860e459d68bdcb0100a98f7e9fd56325bb66d4c7328b3e4191c67734bee0fea8fe739c51602e1a93e5418f7542279a9f38271cf1dc3a9f6e8e099
+    "@fortawesome/fontawesome-common-types": 6.7.1
+  checksum: c90c9fe4e07dc21fb0e0b407957f5d9c5ec37e69877bd9e38e2348325b8537bcecde0ee69f6445b6d2bffd2a3b493abda1743d0de6bca4d0bebc912d1a165214
   languageName: node
   linkType: hard
 
@@ -2310,7 +2303,7 @@ __metadata:
   resolution: "nuxt-component-share@workspace:."
   dependencies:
     "@fortawesome/fontawesome-svg-core": ^6.7.0
-    "@fortawesome/free-brands-svg-icons": ^6.6.0
+    "@fortawesome/free-brands-svg-icons": ^6.7.0
     "@fortawesome/free-solid-svg-icons": ^6.7.0
     "@fortawesome/vue-fontawesome": ^2.0.10
     eslint: ^7.29.0
